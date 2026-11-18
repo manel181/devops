@@ -1,4 +1,8 @@
 
 
+user = "manel"
 
-var user = "manel"
+user2=""
+number = 4
+
+number_test=5
