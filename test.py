@@ -11,5 +11,3 @@ for i in range (4) :
     print ("hello")
 
 print ("merge effectue")
-
-var count=0 
